@@ -19,4 +19,4 @@ I'm pursuing my Masters's degree in the school of Applied Computer Science and I
 
 ## Me
 
-[It's me](https://raw.githubusercontent.com/saikumarm007/saikumarmudhagoni-big-data-dev/main/Abhi%20Ram.jpg)
+![It's me](https://raw.githubusercontent.com/saikumarm007/saikumarmudhagoni-big-data-dev/main/Abhi%20Ram.jpg)
